@@ -1,0 +1,9 @@
+.git
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+logs
+server_out.log
+server_err.log
